@@ -1,0 +1,12 @@
+{
+  "name" : "John",
+  "age" : 75,
+  "height" : 100,
+  "pets" : [ {
+    "name" : "ruffus",
+    "type" : "dog"
+  }, {
+    "name" : "catherine",
+    "type" : "cat"
+  } ]
+}
